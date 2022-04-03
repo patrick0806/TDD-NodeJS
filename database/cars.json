@@ -1,0 +1,37 @@
+[
+  {
+    "id": "a41cd5fa-1364-410a-85dd-e34ce00607d1",
+    "name": "A4",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "028059dd-b4f1-4d64-8d01-e2123447134d",
+    "name": "Expedition",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "b82e36be-cfba-43e1-b785-5edf6918e09a",
+    "name": "ATS",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "0e099339-a1d1-4962-ac1b-174f842cd1bb",
+    "name": "Aventador",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "aca10bc1-506c-4f68-8382-7101f5245e48",
+    "name": "Aventador",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  }
+]
