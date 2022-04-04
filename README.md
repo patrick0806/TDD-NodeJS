@@ -6,10 +6,6 @@ You can see a story of tests on test folder
 
 ## For Running
 
-Install dependences
-```bash
- npm i
-```
+Install dependences `npm i`
 
-Create Seed Data for tests 
-` npm run seed`
+Create Seed Data for tests  `npm run seed`
